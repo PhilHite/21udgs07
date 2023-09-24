@@ -41,8 +41,11 @@ UDG Plotter - ZX Computing June/July 1983 Page 98 - David Elphick
 UDGs Machine - 1985 Sagesoft - Steve A J Broad
 AlchNews Issue Two Page 140 - 1992 Alchemist Research - Andy Davis
 
-http://www.worldofspectrum.org
-Thanks to everyone on the world of spectrum forums for advice and encouragement.
+https://www.worldofspectrum.org
+https://spectrumcomputing.co.uk
+Thank you to everyone on the World of Spectrum and Spectrum Computing forums for your advice and encouragement.
 
 https://s3-eu-west-1.amazonaws.com/plhite.web/spectrum/index.html
 phil_hite@hotmail.com
+
+24 September 2023
